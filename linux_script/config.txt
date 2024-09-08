@@ -1,0 +1,5 @@
+sleep_seconds=3
+
+pcb_temp_label="Package id 0"
+
+cpu_temp_label="Core 0"

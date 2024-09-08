@@ -1,0 +1,10 @@
+sleep_seconds=3
+
+pcb_temp_label="SYSTIN"
+pcb_fan_label="SYSTIN"
+
+cpu_temp_label="Tctl"
+cpu_fan_label="CPUTIN"
+
+gpu_temp_label="edge"
+gpu_fan_label="edge"
